@@ -13,4 +13,8 @@ bower_components
 .idea
 
 # Build directory
- dist
+dist
+
+# Other
+*.map
+src/css
