@@ -1,0 +1,26 @@
+{
+  "name": "SimpleParallax",
+  "version": "0.0.0",
+  "authors": [
+    "Chris van Mook <chrisvanmook@gmail.com>"
+  ],
+  "description": "A simple jQuery script to enable parallax effect on your site",
+  "main": "./dist/js/simple-parallax.js",
+  "keywords": [
+    "parallax",
+    "jquery",
+    "javascript"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3"
+  },
+  "devDependencies": {}
+}
