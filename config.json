@@ -1,0 +1,8 @@
+{
+  "build_dir": "./dist",
+  "src": {
+    "scss": "./src/scss",
+    "css": "./src/css",
+    "js": "./src/js"
+  }
+}
