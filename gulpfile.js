@@ -36,7 +36,7 @@ gulp.task('js', function () {
 		.pipe(gulp.dest(config.build_dir + '/js/'));
 });
 
-gulp.task('buid', ['scss', 'js']);
+gulp.task('build', ['scss', 'js']);
 
 gulp.task('default', ['scss:dev'], function () {
 	gulp.watch(config.src.scss + '/**/*.scss', ['scss']);
